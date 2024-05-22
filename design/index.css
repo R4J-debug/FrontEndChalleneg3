@@ -11,8 +11,8 @@ body {
   flex-direction: column;
   flex-wrap: 1;
   align-content: flex-end;
-  height: 34rem;
-  width: 20rem;
+  height: 36rem;
+  width: 22rem;
   background-color: hsl(0, 0%, 12%);
   border-radius: 12px;
   box-shadow: 6px 6px 4px #81807a;
